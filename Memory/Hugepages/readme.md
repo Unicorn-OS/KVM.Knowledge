@@ -15,3 +15,7 @@ https://mathiashueber.com/pci-passthrough-ubuntu-2004-virtual-machine/
 >```
 
 sch: https://www.google.com/search?q=kvm+hugepages
+
+# options:
+Guide:
+- https://harvarinder.blogspot.com/2019/12/understanding-vmnrhugepages.html
