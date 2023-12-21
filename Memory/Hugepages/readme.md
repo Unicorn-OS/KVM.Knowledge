@@ -1,5 +1,6 @@
 # Guide:
 - https://access.redhat.com/solutions/36741
+- https://oracle-base.com/articles/linux/configuring-huge-pages-for-oracle-on-linux-64
 
 https://mathiashueber.com/pci-passthrough-ubuntu-2004-virtual-machine/
 
