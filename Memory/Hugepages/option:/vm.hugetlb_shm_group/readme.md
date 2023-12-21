@@ -5,3 +5,4 @@ https://harvarinder.blogspot.com/2019/12/understanding-vmnrhugepages.html
 
 # Help
 - [What will happen if HugePage is set but sysctl parameter vm.hugetlb_shm_group is not set ?](https://access.redhat.com/solutions/1610713)
+- https://stackoverflow.com/questions/26849638/how-to-restrict-users-or-applications-from-using-hugepage-support
