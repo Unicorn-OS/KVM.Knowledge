@@ -7,4 +7,4 @@ wiki: https://en.wikipedia.org/wiki/Proxmox_Virtual_Environment
 
 # Cons/Disadvantage:
 - A commercial product.
-- Many features are Paid only!
+- Many features are for Paid Licenses only!
